@@ -1,6 +1,6 @@
 # Healthcare Data Analysis
 
-<img src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg" width="200">
+<img src="https://www.iso.org/files/live/sites/isoorg/files/news/insights/healthcare/Healthcare_Evergreen%20-%20Healthcare%20data%20analytics.svg" width="600">
 
 **Health data analytics refers to analysis of the data using quantitative and qualitative techniques to be able to explore for trends and patterns in the data — to “acquire, manage, analyze, interpret and transform data into accurate, consistent and timely information.**
 
