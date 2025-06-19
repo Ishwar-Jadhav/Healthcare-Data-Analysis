@@ -1,6 +1,6 @@
 # Healthcare Data Analysis
 
-<img src="[(https://www.iso.org/files/live/sites/isoorg/files/news/insights/healthcare/svg/h_data-analytics.svg))" width="600">
+<img src="(https://www.iso.org/files/live/sites/isoorg/files/news/insights/healthcare/svg/h_data-analytics.svg)" width="600">
 
 **Health data analytics refers to analysis of the data using quantitative and qualitative techniques to be able to explore for trends and patterns in the data — to “acquire, manage, analyze, interpret and transform data into accurate, consistent and timely information.**
 
